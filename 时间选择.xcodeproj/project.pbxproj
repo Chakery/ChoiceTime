@@ -12,6 +12,7 @@
 		8360927A1C33C11D00642902 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 836092781C33C11D00642902 /* Main.storyboard */; };
 		8360927C1C33C11D00642902 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8360927B1C33C11D00642902 /* Assets.xcassets */; };
 		8360927F1C33C11D00642902 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8360927D1C33C11D00642902 /* LaunchScreen.storyboard */; };
+		836092871C33C19D00642902 /* ChoiceTimeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 836092861C33C19D00642902 /* ChoiceTimeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		8360927B1C33C11D00642902 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8360927E1C33C11D00642902 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		836092801C33C11D00642902 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		836092861C33C19D00642902 /* ChoiceTimeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChoiceTimeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				836092741C33C11D00642902 /* AppDelegate.swift */,
 				836092761C33C11D00642902 /* ViewController.swift */,
+				836092861C33C19D00642902 /* ChoiceTimeView.swift */,
 				836092781C33C11D00642902 /* Main.storyboard */,
 				8360927B1C33C11D00642902 /* Assets.xcassets */,
 				8360927D1C33C11D00642902 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				836092771C33C11D00642902 /* ViewController.swift in Sources */,
 				836092751C33C11D00642902 /* AppDelegate.swift in Sources */,
+				836092871C33C19D00642902 /* ChoiceTimeView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
